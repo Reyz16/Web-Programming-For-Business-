@@ -1,0 +1,7 @@
+{
+  "name": "pickuplaundry",
+  "description": "Platform on-demand jemput antar laundry modern dengan integrasi mitra laundry lokal, visual interaktif 3D, dan PRD lengkap.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
